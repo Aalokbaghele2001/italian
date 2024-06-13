@@ -8,6 +8,7 @@
     "type": "Vegetarian",
     "desc": "A delicious fusion pizza topped with marinated paneer tikka, bell peppers, and onions, baked to perfection.",
     "rating": 4.9,
+    "category":"italian",
     "restaurant": {
       "name": "Fusion Bistro",
       "address": "123 Fusion Street, Mumbai",
@@ -25,6 +26,7 @@
     "type": "Non-Vegetarian",
     "desc": "Layers of lasagna filled with rich and creamy butter chicken, topped with mozzarella cheese.",
     "rating": 4.8,
+    "category":"italian",
     "restaurant": {
       "name": "Italindian Delights",
       "address": "456 Gourmet Lane, Delhi",
@@ -42,6 +44,7 @@
     "type": "Vegetarian",
     "desc": "Macaroni pasta cooked in a spicy Indian masala sauce with vegetables.",
     "rating": 4.6,
+    "category":"italian",
     "restaurant": {
       "name": "Spice Italia",
       "address": "789 Market Road, Bangalore",
@@ -59,6 +62,7 @@
     "type": "Non-Vegetarian",
     "desc": "Pasta tossed in a tandoori sauce with grilled chicken and vegetables.",
     "rating": 4.7,
+    "category":"italian",
     "restaurant": {
       "name": "Taste of Fusion",
       "address": "234 Spice Avenue, Chennai",
@@ -76,6 +80,7 @@
     "type": "Vegetarian",
     "desc": "Creamy risotto flavored with Indian spices and mixed vegetables.",
     "rating": 4.6,
+    "category":"italian",
     "restaurant": {
       "name": "Risotto House",
       "address": "567 Gourmet Drive, Pune",
@@ -93,6 +98,7 @@
     "type": "Vegetarian",
     "desc": "Pasta served with crispy aloo tikki, topped with a tangy tomato sauce.",
     "rating": 4.5,
+    "category":"italian",
     "restaurant": {
       "name": "Fusion Fiesta",
       "address": "890 Culinary Court, Hyderabad",
@@ -110,6 +116,7 @@
     "type": "Non-Vegetarian",
     "desc": "Creamy Alfredo pasta with chunks of spicy chicken tikka.",
     "rating": 4.8,
+    "category":"italian",
     "restaurant": {
       "name": "Pasta Fusion",
       "address": "345 Culinary Street, Goa",
@@ -127,6 +134,7 @@
     "type": "Vegetarian",
     "desc": "Ravioli stuffed with paneer tikka, served in a creamy spinach sauce.",
     "rating": 4.7,
+    "category":"italian",
     "restaurant": {
       "name": "Ravioli Haven",
       "address": "123 Ravioli Lane, Kolkata",
@@ -144,6 +152,7 @@
     "type": "Vegetarian",
     "desc": "Spaghetti cooked in a spicy tomato-based masala sauce with vegetables.",
     "rating": 4.6,
+    "category":"italian",
     "restaurant": {
       "name": "Spice & Pasta",
       "address": "789 Spicy Avenue, Jaipur",
@@ -161,6 +170,7 @@
     "type": "Vegetarian",
     "desc": "A fusion pizza with naan as the base, topped with fresh basil, tomatoes, and mozzarella cheese.",
     "rating": 4.7,
+    "category":"italian",
     "restaurant": {
       "name": "Pizza Naan",
       "address": "234 Central Avenue, Ahmedabad",
@@ -178,6 +188,7 @@
     "type": "Vegetarian",
     "desc": "Pizza topped with tandoori paneer, bell peppers, and onions, baked to a crispy finish.",
     "rating": 4.8,
+    "category":"italian",
     "restaurant": {
       "name": "Naan & Pizza",
       "address": "456 Fusion Lane, Indore",
@@ -195,6 +206,7 @@
     "type": "Non-Vegetarian",
     "desc": "Crispy rice balls stuffed with biryani spices and chicken, served with a tangy sauce.",
     "rating": 4.7,
+    "category":"italian",
     "restaurant": {
       "name": "Arancini Fusion",
       "address": "789 Gourmet Plaza, Lucknow",
@@ -212,6 +224,7 @@
     "type": "Vegetarian",
     "desc": "Pizza topped with paneer masala, onions, and bell peppers, baked on a thin crust.",
     "rating": 4.7,
+    "category":"italian",
     "restaurant": {
       "name": "Fusion Pizzeria",
       "address": "890 Pizza Lane, Surat",
@@ -229,6 +242,7 @@
     "type": "Non-Vegetarian",
     "desc": "Pasta baked with a spicy tikka sauce, chicken, and vegetables, topped with cheese.",
     "rating": 4.8,
+    "category":"italian",
     "restaurant": {
       "name": "Pasta House",
       "address": "567 Fusion Boulevard, Nagpur",
@@ -236,23 +250,6 @@
       "offers": "20% off for orders above Rs. 500",
       "rating": 4.8,
       "about": "Pasta House specializes in fusion pasta dishes, blending the bold flavors of Indian spices with traditional Italian recipes."
-    }
-  },
-  {
-    "id": 15,
-    "dish": "Paneer Pesto Pizza",
-    "image": "https://www.archanaskitchen.com/images/archanaskitchen/Paneer_Pesto_Pizza.jpg",
-    "price": 299,
-    "type": "Vegetarian",
-    "desc": "A fusion pizza with a naan base, topped with paneer, fresh pesto, and tomatoes.",
-    "rating": 4.9,
-    "restaurant": {
-      "name": "Pesto Fusion",
-      "address": "123 Culinary Drive, Nagpur",
-      "timing": "12:00 PM - 10:00 PM",
-      "offers": "Free drink with any pizza",
-      "rating": 4.8,
-      "about": "Pesto Fusion offers a range of pizzas and pasta, each with a unique blend of Indian and Italian flavors."
     }
   }
 ]
