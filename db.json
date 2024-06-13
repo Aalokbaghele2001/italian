@@ -1,0 +1,259 @@
+{
+  "italian":[
+  {
+    "id": 1,
+    "dish": "Paneer Tikka Pizza",
+    "image": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/shalini_r/Paneer_Tikka_Pizza_Recipe.jpg",
+    "price": 299,
+    "type": "Vegetarian",
+    "desc": "A delicious fusion pizza topped with marinated paneer tikka, bell peppers, and onions, baked to perfection.",
+    "rating": 4.9,
+    "restaurant": {
+      "name": "Fusion Bistro",
+      "address": "123 Fusion Street, Mumbai",
+      "timing": "12:00 PM - 11:00 PM",
+      "offers": "Buy 1 Get 1 Free on Mondays",
+      "rating": 4.8,
+      "about": "Fusion Bistro brings together the best of Indian and Italian cuisines, offering a unique dining experience."
+    }
+  },
+  {
+    "id": 2,
+    "dish": "Butter Chicken Lasagna",
+    "image": "https://www.ruchiskitchen.com/wp-content/uploads/2020/10/Butter-Chicken-Lasagna.jpg",
+    "price": 349,
+    "type": "Non-Vegetarian",
+    "desc": "Layers of lasagna filled with rich and creamy butter chicken, topped with mozzarella cheese.",
+    "rating": 4.8,
+    "restaurant": {
+      "name": "Italindian Delights",
+      "address": "456 Gourmet Lane, Delhi",
+      "timing": "1:00 PM - 10:30 PM",
+      "offers": "10% off for students",
+      "rating": 4.7,
+      "about": "Italindian Delights serves a delightful blend of Italian and Indian dishes, perfect for those who love fusion cuisine."
+    }
+  },
+  {
+    "id": 3,
+    "dish": "Masala Macaroni",
+    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2020/12/masala-macaroni-recipe-3.jpg",
+    "price": 199,
+    "type": "Vegetarian",
+    "desc": "Macaroni pasta cooked in a spicy Indian masala sauce with vegetables.",
+    "rating": 4.6,
+    "restaurant": {
+      "name": "Spice Italia",
+      "address": "789 Market Road, Bangalore",
+      "timing": "11:00 AM - 10:00 PM",
+      "offers": "15% off on weekends",
+      "rating": 4.6,
+      "about": "Spice Italia combines the rich flavors of Indian spices with classic Italian dishes to create a unique menu."
+    }
+  },
+  {
+    "id": 4,
+    "dish": "Tandoori Pasta",
+    "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2020/09/tandoori-pasta.jpg",
+    "price": 229,
+    "type": "Non-Vegetarian",
+    "desc": "Pasta tossed in a tandoori sauce with grilled chicken and vegetables.",
+    "rating": 4.7,
+    "restaurant": {
+      "name": "Taste of Fusion",
+      "address": "234 Spice Avenue, Chennai",
+      "timing": "12:00 PM - 11:00 PM",
+      "offers": "20% off on orders above Rs. 500",
+      "rating": 4.7,
+      "about": "Taste of Fusion offers a creative mix of Indian and Italian dishes, making every meal a delightful experience."
+    }
+  },
+  {
+    "id": 5,
+    "dish": "Indian Spiced Risotto",
+    "image": "https://www.archanaskitchen.com/images/archanaskitchen/Italian_Pepper_Chicken_Curry_Flavoured_Indo_Italian_Arborio_Risotto_Rice_Recipe-3.jpg",
+    "price": 249,
+    "type": "Vegetarian",
+    "desc": "Creamy risotto flavored with Indian spices and mixed vegetables.",
+    "rating": 4.6,
+    "restaurant": {
+      "name": "Risotto House",
+      "address": "567 Gourmet Drive, Pune",
+      "timing": "12:30 PM - 10:00 PM",
+      "offers": "Free dessert with every main course",
+      "rating": 4.8,
+      "about": "Risotto House specializes in a variety of risotto dishes, offering a unique Indian twist to classic Italian recipes."
+    }
+  },
+  {
+    "id": 6,
+    "dish": "Aloo Tikki Pasta",
+    "image": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/sri/Fusion_Aloo_Tikki_Pasta_Recipe_02.jpg",
+    "price": 219,
+    "type": "Vegetarian",
+    "desc": "Pasta served with crispy aloo tikki, topped with a tangy tomato sauce.",
+    "rating": 4.5,
+    "restaurant": {
+      "name": "Fusion Fiesta",
+      "address": "890 Culinary Court, Hyderabad",
+      "timing": "11:30 AM - 10:30 PM",
+      "offers": "Free drink with every main course",
+      "rating": 4.6,
+      "about": "Fusion Fiesta offers a unique blend of Indian and Italian flavors, perfect for adventurous food lovers."
+    }
+  },
+  {
+    "id": 7,
+    "dish": "Chicken Tikka Alfredo",
+    "image": "https://www.archanaskitchen.com/images/archanaskitchen/Chicken_tikka_pasta_in_alfredo_sauce.jpg",
+    "price": 279,
+    "type": "Non-Vegetarian",
+    "desc": "Creamy Alfredo pasta with chunks of spicy chicken tikka.",
+    "rating": 4.8,
+    "restaurant": {
+      "name": "Pasta Fusion",
+      "address": "345 Culinary Street, Goa",
+      "timing": "12:00 PM - 11:00 PM",
+      "offers": "20% off on Tuesdays",
+      "rating": 4.8,
+      "about": "Pasta Fusion offers a variety of fusion pasta dishes, blending the best of Indian and Italian cuisines."
+    }
+  },
+  {
+    "id": 8,
+    "dish": "Paneer Tikka Ravioli",
+    "image": "https://www.archanaskitchen.com/images/archanaskitchen/Paneer_Tikka_Ravioli_in_Creamy_Spinach_Sauce.jpg",
+    "price": 259,
+    "type": "Vegetarian",
+    "desc": "Ravioli stuffed with paneer tikka, served in a creamy spinach sauce.",
+    "rating": 4.7,
+    "restaurant": {
+      "name": "Ravioli Haven",
+      "address": "123 Ravioli Lane, Kolkata",
+      "timing": "1:00 PM - 10:00 PM",
+      "offers": "Buy 2, Get 1 Free on Thursdays",
+      "rating": 4.7,
+      "about": "Ravioli Haven offers a range of ravioli dishes, each with a unique Indian twist, creating a delightful fusion experience."
+    }
+  },
+  {
+    "id": 9,
+    "dish": "Masala Spaghetti",
+    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2020/12/masala-spaghetti-recipe-1.jpg",
+    "price": 199,
+    "type": "Vegetarian",
+    "desc": "Spaghetti cooked in a spicy tomato-based masala sauce with vegetables.",
+    "rating": 4.6,
+    "restaurant": {
+      "name": "Spice & Pasta",
+      "address": "789 Spicy Avenue, Jaipur",
+      "timing": "11:00 AM - 10:00 PM",
+      "offers": "10% off for families",
+      "rating": 4.6,
+      "about": "Spice & Pasta offers a unique menu of fusion dishes, combining the bold flavors of Indian spices with classic Italian pasta."
+    }
+  },
+  {
+    "id": 10,
+    "dish": "Basil Naan Pizza",
+    "image": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/sri/Naan_Pizza_Recipe_with_Fresh_Basil_Pesto_Tomatoes_01.jpg",
+    "price": 239,
+    "type": "Vegetarian",
+    "desc": "A fusion pizza with naan as the base, topped with fresh basil, tomatoes, and mozzarella cheese.",
+    "rating": 4.7,
+    "restaurant": {
+      "name": "Pizza Naan",
+      "address": "234 Central Avenue, Ahmedabad",
+      "timing": "12:00 PM - 11:00 PM",
+      "offers": "Free topping on any pizza",
+      "rating": 4.8,
+      "about": "Pizza Naan offers a creative mix of Indian and Italian pizza options, each with a unique twist."
+    }
+  },
+  {
+    "id": 11,
+    "dish": "Tandoori Paneer Pizza",
+    "image": "https://www.archanaskitchen.com/images/archanaskitchen/Tandoori_Paneer_Pizza_Recipe.jpg",
+    "price": 299,
+    "type": "Vegetarian",
+    "desc": "Pizza topped with tandoori paneer, bell peppers, and onions, baked to a crispy finish.",
+    "rating": 4.8,
+    "restaurant": {
+      "name": "Naan & Pizza",
+      "address": "456 Fusion Lane, Indore",
+      "timing": "1:00 PM - 10:00 PM",
+      "offers": "Free garlic bread with any pizza",
+      "rating": 4.8,
+      "about": "Naan & Pizza specializes in fusion pizzas, offering a delightful combination of Indian and Italian flavors."
+    }
+  },
+  {
+    "id": 12,
+    "dish": "Biryani Arancini",
+    "image": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/sri/Biryani_Arancini.jpg",
+    "price": 249,
+    "type": "Non-Vegetarian",
+    "desc": "Crispy rice balls stuffed with biryani spices and chicken, served with a tangy sauce.",
+    "rating": 4.7,
+    "restaurant": {
+      "name": "Arancini Fusion",
+      "address": "789 Gourmet Plaza, Lucknow",
+      "timing": "12:30 PM - 10:00 PM",
+      "offers": "Free dip with any order",
+      "rating": 4.7,
+      "about": "Arancini Fusion offers a variety of arancini with a unique twist, blending traditional Indian spices with Italian favorites."
+    }
+  },
+  {
+    "id": 13,
+    "dish": "Paneer Masala Pizza",
+    "image": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/shalini_r/Paneer_Tikka_Pizza_Recipe.jpg",
+    "price": 279,
+    "type": "Vegetarian",
+    "desc": "Pizza topped with paneer masala, onions, and bell peppers, baked on a thin crust.",
+    "rating": 4.7,
+    "restaurant": {
+      "name": "Fusion Pizzeria",
+      "address": "890 Pizza Lane, Surat",
+      "timing": "12:00 PM - 11:00 PM",
+      "offers": "Buy 1, Get 1 Half Off",
+      "rating": 4.7,
+      "about": "Fusion Pizzeria offers a range of fusion pizzas, each combining the rich flavors of Indian and Italian cuisines."
+    }
+  },
+  {
+    "id": 14,
+    "dish": "Tikka Pasta Bake",
+    "image": "https://www.archanaskitchen.com/images/archanaskitchen/Tandoori_Chicken_Pasta_Bake.jpg",
+    "price": 259,
+    "type": "Non-Vegetarian",
+    "desc": "Pasta baked with a spicy tikka sauce, chicken, and vegetables, topped with cheese.",
+    "rating": 4.8,
+    "restaurant": {
+      "name": "Pasta House",
+      "address": "567 Fusion Boulevard, Nagpur",
+      "timing": "12:00 PM - 10:30 PM",
+      "offers": "20% off for orders above Rs. 500",
+      "rating": 4.8,
+      "about": "Pasta House specializes in fusion pasta dishes, blending the bold flavors of Indian spices with traditional Italian recipes."
+    }
+  },
+  {
+    "id": 15,
+    "dish": "Paneer Pesto Pizza",
+    "image": "https://www.archanaskitchen.com/images/archanaskitchen/Paneer_Pesto_Pizza.jpg",
+    "price": 299,
+    "type": "Vegetarian",
+    "desc": "A fusion pizza with a naan base, topped with paneer, fresh pesto, and tomatoes.",
+    "rating": 4.9,
+    "restaurant": {
+      "name": "Pesto Fusion",
+      "address": "123 Culinary Drive, Nagpur",
+      "timing": "12:00 PM - 10:00 PM",
+      "offers": "Free drink with any pizza",
+      "rating": 4.8,
+      "about": "Pesto Fusion offers a range of pizzas and pasta, each with a unique blend of Indian and Italian flavors."
+    }
+  }
+]
+}
