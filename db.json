@@ -9,13 +9,13 @@
     "desc": "A delicious fusion pizza topped with marinated paneer tikka, bell peppers, and onions, baked to perfection.",
     "rating": 4.9,
     "category":"italian",
-    "restaurant": {
-      "name": "Fusion Bistro",
-      "address": "123 Fusion Street, Mumbai",
-      "timing": "12:00 PM - 11:00 PM",
-      "offers": "Buy 1 Get 1 Free on Mondays",
-      "rating": 4.8,
-      "about": "Fusion Bistro brings together the best of Indian and Italian cuisines, offering a unique dining experience."
+   "restaurant": {
+      "name": "MTR 1924",
+      "address": "14 Lalbagh Road, Bangalore",
+      "timing": "7:00 AM - 10:30 PM",
+      "offers": "Special discounts for breakfast combos",
+      "rating": 4.7,
+      "about": ""
     }
   },
   {
@@ -27,13 +27,13 @@
     "desc": "Layers of lasagna filled with rich and creamy butter chicken, topped with mozzarella cheese.",
     "rating": 4.8,
     "category":"italian",
-    "restaurant": {
-      "name": "Italindian Delights",
-      "address": "456 Gourmet Lane, Delhi",
-      "timing": "1:00 PM - 10:30 PM",
-      "offers": "10% off for students",
-      "rating": 4.7,
-      "about": "Italindian Delights serves a delightful blend of Italian and Indian dishes, perfect for those who love fusion cuisine."
+       "restaurant": {
+      "name": "Paradise Biryani",
+      "address": "246 SD Road, Secunderabad",
+      "timing": "11:00 AM - 11:00 PM",
+      "offers": "Family packs available",
+      "rating": 4.8,
+      "about": "Paradise Biryani is synonymous with authentic Hyderabadi biryani, known for its rich flavors."
     }
   },
   {
@@ -45,13 +45,13 @@
     "desc": "Macaroni pasta cooked in a spicy Indian masala sauce with vegetables.",
     "rating": 4.6,
     "category":"italian",
-    "restaurant": {
-      "name": "Spice Italia",
-      "address": "789 Market Road, Bangalore",
-      "timing": "11:00 AM - 10:00 PM",
-      "offers": "15% off on weekends",
+   "restaurant": {
+      "name": "Saravana Bhavan",
+      "address": "567 RK Salai, Chennai",
+      "timing": "7:30 AM - 10:30 PM",
+      "offers": "Weekend brunch specials",
       "rating": 4.6,
-      "about": "Spice Italia combines the rich flavors of Indian spices with classic Italian dishes to create a unique menu."
+      "about": "Saravana Bhavan is a global chain renowned for its South Indian vegetarian delicacies, served with authentic flavors and hospitality."
     }
   },
   {
@@ -63,13 +63,13 @@
     "desc": "Pasta tossed in a tandoori sauce with grilled chicken and vegetables.",
     "rating": 4.7,
     "category":"italian",
-    "restaurant": {
-      "name": "Taste of Fusion",
-      "address": "234 Spice Avenue, Chennai",
-      "timing": "12:00 PM - 11:00 PM",
-      "offers": "20% off on orders above Rs. 500",
-      "rating": 4.7,
-      "about": "Taste of Fusion offers a creative mix of Indian and Italian dishes, making every meal a delightful experience."
+     "restaurant": {
+      "name": "Murugan Idli Shop",
+      "address": "34 GN Chetty Road, T. Nagar, Chennai",
+      "timing": "6:00 AM - 10:00 PM",
+      "offers": "Authentic South Indian breakfast specials",
+      "rating": 4.5,
+      "about": "Murugan Idli Shop is renowned for its fluffy idlis and traditional South Indian fare, served in a bustling ambiance."
     }
   },
   {
@@ -81,13 +81,13 @@
     "desc": "Creamy risotto flavored with Indian spices and mixed vegetables.",
     "rating": 4.6,
     "category":"italian",
-    "restaurant": {
-      "name": "Risotto House",
-      "address": "567 Gourmet Drive, Pune",
-      "timing": "12:30 PM - 10:00 PM",
-      "offers": "Free dessert with every main course",
-      "rating": 4.8,
-      "about": "Risotto House specializes in a variety of risotto dishes, offering a unique Indian twist to classic Italian recipes."
+   "restaurant": {
+      "name": "Adyar Ananda Bhavan",
+      "address": "123 GN Road, Adyar, Chennai",
+      "timing": "6:30 AM - 11:00 PM",
+      "offers": "South Indian breakfast combos",
+      "rating": 4.7,
+      "about": "Adyar Ananda Bhavan is a well-known chain offering a wide variety of South Indian vegetarian dishes with a focus on taste and quality."
     }
   },
   {
@@ -99,13 +99,13 @@
     "desc": "Pasta served with crispy aloo tikki, topped with a tangy tomato sauce.",
     "rating": 4.5,
     "category":"italian",
-    "restaurant": {
-      "name": "Fusion Fiesta",
-      "address": "890 Culinary Court, Hyderabad",
-      "timing": "11:30 AM - 10:30 PM",
-      "offers": "Free drink with every main course",
+   "restaurant": {
+      "name": "Coastal Express",
+      "address": "789 Marine Drive, Kochi",
+      "timing": "8:00 AM - 9:00 PM",
+      "offers": "Coastal delicacies",
       "rating": 4.6,
-      "about": "Fusion Fiesta offers a unique blend of Indian and Italian flavors, perfect for adventurous food lovers."
+      "about": "Coastal Express specializes in authentic South Indian coastal cuisine, offering a delightful culinary journey along the coastline."
     }
   },
   {
@@ -117,13 +117,13 @@
     "desc": "Creamy Alfredo pasta with chunks of spicy chicken tikka.",
     "rating": 4.8,
     "category":"italian",
-    "restaurant": {
-      "name": "Pasta Fusion",
-      "address": "345 Culinary Street, Goa",
-      "timing": "12:00 PM - 11:00 PM",
-      "offers": "20% off on Tuesdays",
-      "rating": 4.8,
-      "about": "Pasta Fusion offers a variety of fusion pasta dishes, blending the best of Indian and Italian cuisines."
+   "restaurant": {
+      "name": "Janatha Hotel",
+      "address": "456 MG Road, Mysore",
+      "timing": "7:00 AM - 11:00 PM",
+      "offers": "Traditional Mysore dishes",
+      "rating": 4.6,
+      "about": "Janatha Hotel is a local favorite known for its authentic Mysore dishes and warm hospitality, serving generations of satisfied customers."
     }
   },
   {
@@ -135,13 +135,13 @@
     "desc": "Ravioli stuffed with paneer tikka, served in a creamy spinach sauce.",
     "rating": 4.7,
     "category":"italian",
-    "restaurant": {
-      "name": "Ravioli Haven",
-      "address": "123 Ravioli Lane, Kolkata",
-      "timing": "1:00 PM - 10:00 PM",
-      "offers": "Buy 2, Get 1 Free on Thursdays",
-      "rating": 4.7,
-      "about": "Ravioli Haven offers a range of ravioli dishes, each with a unique Indian twist, creating a delightful fusion experience."
+   "restaurant": {
+      "name": "Sagar Ratna",
+      "address": "678 MG Road, Bangalore",
+      "timing": "7:30 AM - 10:30 PM",
+      "offers": "South Indian breakfast specials",
+      "rating": 4.5,
+      "about": "Sagar Ratna is a popular chain offering a diverse menu of South Indian delicacies, known for its quality and consistency."
     }
   },
   {
@@ -153,13 +153,13 @@
     "desc": "Spaghetti cooked in a spicy tomato-based masala sauce with vegetables.",
     "rating": 4.6,
     "category":"italian",
-    "restaurant": {
-      "name": "Spice & Pasta",
-      "address": "789 Spicy Avenue, Jaipur",
+   "restaurant": {
+      "name": "Udupi Upachar",
+      "address": "901 Jayanagar, Bangalore",
       "timing": "11:00 AM - 10:00 PM",
-      "offers": "10% off for families",
+      "offers": "Traditional Udupi cuisine",
       "rating": 4.6,
-      "about": "Spice & Pasta offers a unique menu of fusion dishes, combining the bold flavors of Indian spices with classic Italian pasta."
+      "about": "Udupi Upachar offers authentic Udupi cuisine with a focus on traditional flavors and homely preparation."
     }
   },
   {
@@ -172,12 +172,12 @@
     "rating": 4.7,
     "category":"italian",
     "restaurant": {
-      "name": "Pizza Naan",
-      "address": "234 Central Avenue, Ahmedabad",
-      "timing": "12:00 PM - 11:00 PM",
-      "offers": "Free topping on any pizza",
-      "rating": 4.8,
-      "about": "Pizza Naan offers a creative mix of Indian and Italian pizza options, each with a unique twist."
+      "name": "Andhra Bhavan",
+      "address": "123 RK Puram, Delhi",
+      "timing": "8:00 AM - 9:00 PM",
+      "offers": "Authentic Andhra cuisine",
+      "rating": 4.5,
+      "about": "Andhra Bhavan is renowned for its authentic Andhra meals and hospitality, serving flavors that capture the essence of Andhra Pradesh."
     }
   },
   {
@@ -189,13 +189,13 @@
     "desc": "Pizza topped with tandoori paneer, bell peppers, and onions, baked to a crispy finish.",
     "rating": 4.8,
     "category":"italian",
-    "restaurant": {
-      "name": "Naan & Pizza",
-      "address": "456 Fusion Lane, Indore",
-      "timing": "1:00 PM - 10:00 PM",
-      "offers": "Free garlic bread with any pizza",
-      "rating": 4.8,
-      "about": "Naan & Pizza specializes in fusion pizzas, offering a delightful combination of Indian and Italian flavors."
+     "restaurant": {
+      "name": "Chettinad Cuisine",
+      "address": "345 T Nagar, Chennai",
+      "timing": "11:30 AM - 10:30 PM",
+      "offers": "Special lunch thalis",
+      "rating": 4.7,
+      "about": "Chettinad Cuisine specializes in the bold and spicy flavors of Chettinad, offering a wide range of traditional South Indian dishes."
     }
   },
   {
@@ -207,13 +207,13 @@
     "desc": "Crispy rice balls stuffed with biryani spices and chicken, served with a tangy sauce.",
     "rating": 4.7,
     "category":"italian",
-    "restaurant": {
-      "name": "Arancini Fusion",
-      "address": "789 Gourmet Plaza, Lucknow",
-      "timing": "12:30 PM - 10:00 PM",
-      "offers": "Free dip with any order",
-      "rating": 4.7,
-      "about": "Arancini Fusion offers a variety of arancini with a unique twist, blending traditional Indian spices with Italian favorites."
+      "restaurant": {
+      "name": "Bangalore Bites",
+      "address": "456 Brigade Road, Bangalore",
+      "timing": "11:00 AM - 10:00 PM",
+      "offers": "Combo meals available",
+      "rating": 4.8,
+      "about": "Bangalore Bites offers a delicious range of Karnataka's traditional dishes, served in a cozy and welcoming setting."
     }
   },
   {
@@ -225,13 +225,13 @@
     "desc": "Pizza topped with paneer masala, onions, and bell peppers, baked on a thin crust.",
     "rating": 4.7,
     "category":"italian",
-    "restaurant": {
-      "name": "Fusion Pizzeria",
-      "address": "890 Pizza Lane, Surat",
-      "timing": "12:00 PM - 11:00 PM",
-      "offers": "Buy 1, Get 1 Half Off",
-      "rating": 4.7,
-      "about": "Fusion Pizzeria offers a range of fusion pizzas, each combining the rich flavors of Indian and Italian cuisines."
+   "restaurant": {
+      "name": "Kerala Kitchen",
+      "address": "789 Marine Drive, Kochi",
+      "timing": "12:00 PM - 10:00 PM",
+      "offers": "Seafood specials",
+      "rating": 4.9,
+      "about": "Kerala Kitchen brings the rich and diverse flavors of Kerala to your plate, known for its traditional recipes and warm hospitality."
     }
   },
   {
@@ -244,12 +244,12 @@
     "rating": 4.8,
     "category":"italian",
     "restaurant": {
-      "name": "Pasta House",
-      "address": "567 Fusion Boulevard, Nagpur",
-      "timing": "12:00 PM - 10:30 PM",
-      "offers": "20% off for orders above Rs. 500",
-      "rating": 4.8,
-      "about": "Pasta House specializes in fusion pasta dishes, blending the bold flavors of Indian spices with traditional Italian recipes."
+      "name": "Seafood Corner",
+      "address": "890 Beach Road, Kovalam",
+      "timing": "1:00 PM - 11:00 PM",
+      "offers": "Seafood platters",
+      "rating": 4.6,
+      "about": "Seafood Corner is renowned for its fresh and flavorful seafood dishes, offering a delightful dining experience by the sea."
     }
   }
 ]
