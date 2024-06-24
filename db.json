@@ -8,16 +8,15 @@
     "type": "Vegetarian",
     "desc": "A delicious fusion pizza topped with marinated paneer tikka, bell peppers, and onions, baked to perfection.",
     "rating": 4.9,
-    "category":"italian",
-   "restaurant": {
-      "name": "MTR 1924",
-      "address": "14 Lalbagh Road, Bangalore",
-      "timing": "7:00 AM - 10:30 PM",
-      "offers": "Special discounts for breakfast combos",
+    "category":"Italian",
+    "restaurant": {
+      "name": "Spice Route",
+      "address": "123 Main Street, New Delhi",
+      "timing": "12:00 PM - 10:00 PM",
+      "offers": "20% off on Tuesdays",
       "rating": 4.7,
-      "about": ""
-    }
-  },
+      "about": "Spice Route offers a delightful journey through North Indian cuisine, blending traditional flavors with a modern twist."
+    }},
   {
     "id": 58,
     "dish": "Butter Chicken Lasagna",
@@ -26,16 +25,15 @@
     "type": "Non-Vegetarian",
     "desc": "Layers of lasagna filled with rich and creamy butter chicken, topped with mozzarella cheese.",
     "rating": 4.8,
-    "category":"italian",
-       "restaurant": {
-      "name": "Paradise Biryani",
-      "address": "246 SD Road, Secunderabad",
-      "timing": "11:00 AM - 11:00 PM",
-      "offers": "Family packs available",
-      "rating": 4.8,
-      "about": "Paradise Biryani is synonymous with authentic Hyderabadi biryani, known for its rich flavors."
-    }
-  },
+    "category":"Italian",
+    "restaurant": {
+      "name": "Tandoori Nights",
+      "address": "456 Park Avenue, Mumbai",
+      "timing": "11:30 AM - 11:00 PM",
+      "offers": "Free dessert on orders over Rs. 500",
+      "rating": 4.6,
+      "about": "Tandoori Nights is renowned for its authentic tandoori dishes, offering a vibrant dining experience in the heart of Mumbai."
+    }},
   {
     "id": 59,
     "dish": "Masala Macaroni",
@@ -44,16 +42,15 @@
     "type": "Vegetarian",
     "desc": "Macaroni pasta cooked in a spicy Indian masala sauce with vegetables.",
     "rating": 4.6,
-    "category":"italian",
+    "category":"Italian",
    "restaurant": {
-      "name": "Saravana Bhavan",
-      "address": "567 RK Salai, Chennai",
-      "timing": "7:30 AM - 10:30 PM",
-      "offers": "Weekend brunch specials",
-      "rating": 4.6,
-      "about": "Saravana Bhavan is a global chain renowned for its South Indian vegetarian delicacies, served with authentic flavors and hospitality."
-    }
-  },
+      "name": "Punjabi Tadka",
+      "address": "789 Commercial Road, Chandigarh",
+      "timing": "10:00 AM - 9:30 PM",
+      "offers": "10% off for first-time visitors",
+      "rating": 4.8,
+      "about": "Punjabi Tadka offers an authentic taste of Punjab with its flavorful chole bhature and other Punjabi delicacies."
+    }},
   {
     "id": 60,
     "dish": "Tandoori Pasta",
@@ -62,16 +59,15 @@
     "type": "Non-Vegetarian",
     "desc": "Pasta tossed in a tandoori sauce with grilled chicken and vegetables.",
     "rating": 4.7,
-    "category":"italian",
-     "restaurant": {
-      "name": "Murugan Idli Shop",
-      "address": "34 GN Chetty Road, T. Nagar, Chennai",
-      "timing": "6:00 AM - 10:00 PM",
-      "offers": "Authentic South Indian breakfast specials",
+    "category":"Italian",
+ "restaurant": {
+      "name": "Amritsari Delights",
+      "address": "234 MG Road, Amritsar",
+      "timing": "11:00 AM - 10:30 PM",
+      "offers": "Happy Hour: 2:00 PM - 4:00 PM, Buy 1 Get 1 Free",
       "rating": 4.5,
-      "about": "Murugan Idli Shop is renowned for its fluffy idlis and traditional South Indian fare, served in a bustling ambiance."
-    }
-  },
+      "about": "Amritsari Delights brings the taste of Amritsar to your plate, specializing in robust flavors of North Indian cuisine."
+    }},
   {
     "id": 61,
     "dish": "Indian Spiced Risotto",
@@ -80,16 +76,15 @@
     "type": "Vegetarian",
     "desc": "Creamy risotto flavored with Indian spices and mixed vegetables.",
     "rating": 4.6,
-    "category":"italian",
+    "category":"Italian",
    "restaurant": {
-      "name": "Adyar Ananda Bhavan",
-      "address": "123 GN Road, Adyar, Chennai",
-      "timing": "6:30 AM - 11:00 PM",
-      "offers": "South Indian breakfast combos",
-      "rating": 4.7,
-      "about": "Adyar Ananda Bhavan is a well-known chain offering a wide variety of South Indian vegetarian dishes with a focus on taste and quality."
-    }
-  },
+      "name": "Royal Rasoi",
+      "address": "567 Brigade Road, Bangalore",
+      "timing": "12:30 PM - 11:00 PM",
+      "offers": "Lunch buffet at Rs. 399",
+      "rating": 4.9,
+      "about": "Royal Rasoi offers a royal dining experience with a wide array of vegetarian and non-vegetarian dishes from across India."
+    }},
   {
     "id": 62,
     "dish": "Aloo Tikki Pasta",
@@ -98,16 +93,15 @@
     "type": "Vegetarian",
     "desc": "Pasta served with crispy aloo tikki, topped with a tangy tomato sauce.",
     "rating": 4.5,
-    "category":"italian",
-   "restaurant": {
-      "name": "Coastal Express",
-      "address": "789 Marine Drive, Kochi",
-      "timing": "8:00 AM - 9:00 PM",
-      "offers": "Coastal delicacies",
-      "rating": 4.6,
-      "about": "Coastal Express specializes in authentic South Indian coastal cuisine, offering a delightful culinary journey along the coastline."
-    }
-  },
+    "category":"Italian",
+    "restaurant": {
+      "name": "Delhi Darbar",
+      "address": "890 Connaught Place, Delhi",
+      "timing": "9:00 AM - 10:00 PM",
+      "offers": "Weekend brunch specials",
+      "rating": 4.7,
+      "about": "Delhi Darbar is a landmark in Delhi known for its traditional Indian breakfast and hearty North Indian meals throughout the day."
+    }},
   {
     "id": 63,
     "dish": "Chicken Tikka Alfredo",
@@ -116,16 +110,15 @@
     "type": "Non-Vegetarian",
     "desc": "Creamy Alfredo pasta with chunks of spicy chicken tikka.",
     "rating": 4.8,
-    "category":"italian",
+    "category":"Italian",
    "restaurant": {
-      "name": "Janatha Hotel",
-      "address": "456 MG Road, Mysore",
-      "timing": "7:00 AM - 11:00 PM",
-      "offers": "Traditional Mysore dishes",
+      "name": "Lucknowi Bawarchi",
+      "address": "345 Hazratganj, Lucknow",
+      "timing": "11:00 AM - 10:30 PM",
+      "offers": "15% off on weekdays",
       "rating": 4.6,
-      "about": "Janatha Hotel is a local favorite known for its authentic Mysore dishes and warm hospitality, serving generations of satisfied customers."
-    }
-  },
+      "about": "Lucknowi Bawarchi serves authentic Lucknowi cuisine, showcasing the rich culinary heritage of Uttar Pradesh."
+    }},
   {
     "id": 64,
     "dish": "Paneer Tikka Ravioli",
@@ -134,16 +127,15 @@
     "type": "Vegetarian",
     "desc": "Ravioli stuffed with paneer tikka, served in a creamy spinach sauce.",
     "rating": 4.7,
-    "category":"italian",
-   "restaurant": {
-      "name": "Sagar Ratna",
-      "address": "678 MG Road, Bangalore",
-      "timing": "7:30 AM - 10:30 PM",
-      "offers": "South Indian breakfast specials",
+    "category":"Italian",
+    "restaurant": {
+      "name": "Jaipur Spice",
+      "address": "678 Pink City Road, Jaipur",
+      "timing": "11:30 AM - 11:00 PM",
+      "offers": "Chef's special thali",
       "rating": 4.5,
-      "about": "Sagar Ratna is a popular chain offering a diverse menu of South Indian delicacies, known for its quality and consistency."
-    }
-  },
+      "about": "Jaipur Spice brings the flavors of Rajasthan to life with its aromatic Rajasthani dishes and vibrant ambiance."
+    }},
   {
     "id": 65,
     "dish": "Masala Spaghetti",
@@ -152,16 +144,15 @@
     "type": "Vegetarian",
     "desc": "Spaghetti cooked in a spicy tomato-based masala sauce with vegetables.",
     "rating": 4.6,
-    "category":"italian",
-   "restaurant": {
-      "name": "Udupi Upachar",
-      "address": "901 Jayanagar, Bangalore",
-      "timing": "11:00 AM - 10:00 PM",
-      "offers": "Traditional Udupi cuisine",
-      "rating": 4.6,
-      "about": "Udupi Upachar offers authentic Udupi cuisine with a focus on traditional flavors and homely preparation."
-    }
-  },
+    "category":"Italian",
+    "restaurant": {
+      "name": "Agra Palace",
+      "address": "901 Taj Ganj, Agra",
+      "timing": "10:00 AM - 9:30 PM",
+      "offers": "Buy 2 main courses, get 1 free appetizer",
+      "rating": 4.7,
+      "about": "Agra Palace offers a taste of Agra's royal Mughlai cuisine, known for its rich flavors and exquisite presentation."
+    }},
   {
     "id": 66,
     "dish": "Basil Naan Pizza",
@@ -170,16 +161,15 @@
     "type": "Vegetarian",
     "desc": "A fusion pizza with naan as the base, topped with fresh basil, tomatoes, and mozzarella cheese.",
     "rating": 4.7,
-    "category":"italian",
-    "restaurant": {
-      "name": "Andhra Bhavan",
-      "address": "123 RK Puram, Delhi",
-      "timing": "8:00 AM - 9:00 PM",
-      "offers": "Authentic Andhra cuisine",
-      "rating": 4.5,
-      "about": "Andhra Bhavan is renowned for its authentic Andhra meals and hospitality, serving flavors that capture the essence of Andhra Pradesh."
-    }
-  },
+    "category":"Italian",
+       "restaurant": {
+      "name": "Mughlai Dastarkhwan",
+      "address": "123 Gomti Nagar, Lucknow",
+      "timing": "12:00 PM - 10:30 PM",
+      "offers": "10% off on online orders",
+      "rating": 4.8,
+      "about": "Mughlai Dastarkhwan offers a regal dining experience with its exquisite Mughlai cuisine, known for its aromatic spices and richness."
+    }},
   {
     "id": 67,
     "dish": "Tandoori Paneer Pizza",
@@ -188,16 +178,15 @@
     "type": "Vegetarian",
     "desc": "Pizza topped with tandoori paneer, bell peppers, and onions, baked to a crispy finish.",
     "rating": 4.8,
-    "category":"italian",
-     "restaurant": {
-      "name": "Chettinad Cuisine",
-      "address": "345 T Nagar, Chennai",
+    "category":"Italian",
+  "restaurant": {
+      "name": "Rajasthani Rangoli",
+      "address": "456 Udaipur Circle, Udaipur",
       "timing": "11:30 AM - 10:30 PM",
-      "offers": "Special lunch thalis",
-      "rating": 4.7,
-      "about": "Chettinad Cuisine specializes in the bold and spicy flavors of Chettinad, offering a wide range of traditional South Indian dishes."
-    }
-  },
+      "offers": "Weekend family discounts",
+      "rating": 4.6,
+      "about": "Rajasthani Rangoli celebrates the flavors of Rajasthan with its traditional tandoori dishes and warm hospitality."
+    }},
   {
     "id": 68,
     "dish": "Biryani Arancini",
@@ -206,16 +195,15 @@
     "type": "Non-Vegetarian",
     "desc": "Crispy rice balls stuffed with biryani spices and chicken, served with a tangy sauce.",
     "rating": 4.7,
-    "category":"italian",
-      "restaurant": {
-      "name": "Bangalore Bites",
-      "address": "456 Brigade Road, Bangalore",
+    "category":"Italian",
+    "restaurant": {
+      "name": "Varanasi Vaishnavi",
+      "address": "789 Kashi Vishwanath Gali, Varanasi",
       "timing": "11:00 AM - 10:00 PM",
-      "offers": "Combo meals available",
+      "offers": "15% off on weekends",
       "rating": 4.8,
-      "about": "Bangalore Bites offers a delicious range of Karnataka's traditional dishes, served in a cozy and welcoming setting."
-    }
-  },
+      "about": "Varanasi Vaishnavi specializes in authentic Varanasi cuisine, blending traditional flavors with a touch of modern flair."
+    }},
   {
     "id": 69,
     "dish": "Paneer Masala Pizza",
@@ -224,16 +212,15 @@
     "type": "Vegetarian",
     "desc": "Pizza topped with paneer masala, onions, and bell peppers, baked on a thin crust.",
     "rating": 4.7,
-    "category":"italian",
-   "restaurant": {
-      "name": "Kerala Kitchen",
-      "address": "789 Marine Drive, Kochi",
-      "timing": "12:00 PM - 10:00 PM",
-      "offers": "Seafood specials",
-      "rating": 4.9,
-      "about": "Kerala Kitchen brings the rich and diverse flavors of Kerala to your plate, known for its traditional recipes and warm hospitality."
-    }
-  },
+    "category":"Italian",
+     "restaurant": {
+      "name": "Patiala Junction",
+      "address": "234 GT Road, Patiala",
+      "timing": "12:00 PM - 11:00 PM",
+      "offers": "Happy Hour: 3:00 PM - 6:00 PM",
+      "rating": 4.6,
+      "about": "Patiala Junction brings the robust flavors of Punjab to life with its authentic Punjabi dishes and vibrant ambiance."
+    }},
   {
     "id": 70,
     "dish": "Tikka Pasta Bake",
@@ -242,15 +229,14 @@
     "type": "Non-Vegetarian",
     "desc": "Pasta baked with a spicy tikka sauce, chicken, and vegetables, topped with cheese.",
     "rating": 4.8,
-    "category":"italian",
-    "restaurant": {
-      "name": "Seafood Corner",
-      "address": "890 Beach Road, Kovalam",
-      "timing": "1:00 PM - 11:00 PM",
-      "offers": "Seafood platters",
-      "rating": 4.6,
-      "about": "Seafood Corner is renowned for its fresh and flavorful seafood dishes, offering a delightful dining experience by the sea."
-    }
-  }
+    "category":"Italian",
+  "restaurant": {
+      "name": "Kashmiri Khazana",
+      "address": "567 Dal Lake View, Srinagar",
+      "timing": "11:30 AM - 10:00 PM",
+      "offers": "10% off for dine-in",
+      "rating": 4.7,
+      "about": "Kashmiri Khazana offers the flavors of Kashmiri cuisine, known for its rich use of spices and unique preparation methods."
+    }}
 ]
 }
